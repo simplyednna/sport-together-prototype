@@ -60,3 +60,7 @@ This repository contains a **UI/UX prototype**, not the production application.
 The actual Sport Together application is developed separately using Vue.js and Spring Boot.
 
 The prototype serves as a visual and functional reference for implementing the final user interface.
+
+## Work in Progress
+
+The **Smart Match** page is not fully implemented in this prototype yet, as some design and functionality decisions still need to be discussed and finalized within the team.
